@@ -29,7 +29,7 @@ publish/
 appsettings.Local.json
 secrets.json
 
-# Claude Code (configuracion local)
+# Claude Code
 .claude/settings.local.json
 
 # Sistema operativo
